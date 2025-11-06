@@ -1,2 +1,2 @@
 # protein-motif-finder
-A simple browser-based tool to find motifs in protein sequences
+Live Demo: [Protein Motif Finder](https://shwetasrs.github.io/protein-motif-finder/)
